@@ -1,0 +1,10 @@
+/* For crossbrowser */
+@import "normalize.css";
+/* Resetting default styles */
+@import "reset.css";
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+body {
+  font-family: "Open Sans", san-serif;
+  font-weight: 400;
+}
